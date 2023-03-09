@@ -1,3 +1,14 @@
+# React Props App
+
+🔵 Serhat Can
+
+🔵 Demo: https://effulgent-kringle-cf8399.netlify.app/
+
+🔵 Summary: I learned the logic of React Props and made a card site with it.
+
+![image](https://user-images.githubusercontent.com/85739464/224178691-bb68f263-760a-4551-8bca-fb03b7215ff4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
