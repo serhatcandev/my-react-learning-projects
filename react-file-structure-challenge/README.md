@@ -6,6 +6,9 @@
 
 🔵 Summary: I did not make this website. I converted a project made with HTML, CSS and JavaScript into a React project. I learned the file structure and components logic in this challenge.
 
+[screen-capture.webm](https://user-images.githubusercontent.com/85739464/224513683-25512a78-98d0-469b-8025-ec3a951df819.webm)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
